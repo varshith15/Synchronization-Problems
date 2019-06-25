@@ -1,0 +1,5 @@
+os1.c is the implemenation of normal dining-philosopher problem
+os2.c is the implmenation without deadlock 
+in this code we are checking for left and right forks if they are avaiable we take them both or we dont take at all
+
+run the code using make file
